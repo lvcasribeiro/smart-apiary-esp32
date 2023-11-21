@@ -13,11 +13,15 @@ This repository aims to concentrate relevant information and code about the prog
 3. PIN 34 - `KY038` and;
 4. PIN 05 (SCK) and 18 (DOUT) - `HX711`.
 
+<br>
+
 ###### 2. LED's pinout:
 
 1. PIN 15 - `SENT_PIN`;
 2. PIN 02 - `FAIL_PIN` and;
 3. PIN 19 - `HEART_BEAT_PIN`.
+
+<br>
 
 ###### 3. Script changes needed:
 
