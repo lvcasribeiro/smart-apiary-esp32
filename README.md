@@ -44,4 +44,3 @@ Similarly, in lines 11 and 12, make sure to change the firebase cloud database a
 ### Remider
 
 The project is still under development, and there may be some bugs or inconsistencies to be corrected. If you have any questions or problems, please contact me via email: lucas.and.rib@gmail.com. Thank you for understanding.
-
